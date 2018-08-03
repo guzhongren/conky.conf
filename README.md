@@ -31,3 +31,7 @@ $ sudo cp /etc/conky/conky.conf ~/.config/conky/conky.conf
 * ![conky.conf](./img/2.png)
 
   [conky.conf](./conf/2/conky.conf)
+
+* ![conky.conf](./img/3.png)
+
+  [conky.conf](./conf/3/conky.conf)

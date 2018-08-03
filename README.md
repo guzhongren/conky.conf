@@ -27,6 +27,8 @@ $ sudo cp /etc/conky/conky.conf ~/.config/conky/conky.conf
 * ![conky.conf](./img/1.png)
 
   [conky.conf](./conf/1/conky.conf)
+  [FontAwesome](./conf/1/font-awesome-4.7.0)
+  [Microsoft YaHei](./conf/1/MSYHL)
 
 * ![conky.conf](./img/2.png)
 
